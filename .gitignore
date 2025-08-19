@@ -1,15 +1,15 @@
 # Data
-*.csv
-*.zip
+# *.csv
+# *.zip
 *.parquet
 
 # CatBoost logs
-catboost_info/
-**/tmp/
-**/events.out.tfevents
+# catboost_info/
+# **/tmp/
+# **/events.out.tfevents
 
 # Jupyter
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
 
 # OS / IDE
 .DS_Store
