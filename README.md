@@ -64,8 +64,3 @@ During exploration, I found that the **dataset has very weak signal for predicti
 👉 **This limitation is due to the dataset itself, not the modeling process.**  
 The value of this project lies in showing a **structured ML workflow** (EDA → Feature Engineering → Modeling → Evaluation) and demonstrating how to critically assess data quality before over-optimizing models.  
 
----
-
-## ❤️ Acknowledgment
-This project is developed as a hands-on exercise in **data science and machine learning**.  
-I hope it can also serve as inspiration for others! 🌟
