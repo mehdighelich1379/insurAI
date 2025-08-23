@@ -1,6 +1,6 @@
 # 🚗📊 InsurAI – Vehicle Insurance Risk Modeling
 
-Hi there! 👋 This repository contains my project for analyzing vehicle insurance data and modeling risk!
+Hi there! 👋 This repository contains my project for analyzing vehicle insurance data and modeling risk.
 
 ---
 
