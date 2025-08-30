@@ -94,6 +94,7 @@ Hi there! 👋 This repository contains my project for analyzing vehicle insuran
 Here is a visualization of the model results (Confusion Matrix, Feature Importances, Correlations):
 
 ![Model Results](image/result.jpg)
+
 ---
 
 ## 📌 Key Takeaway
