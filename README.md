@@ -94,6 +94,3 @@ Hi there! 👋 This repository contains my project for analyzing vehicle insuran
 Even if the model improves claim detection by only **2%**, for a large insurer this can mean **millions in savings**.  
 The business value comes not from perfect predictions but from **spotting large, high-risk claims** early — which this model achieves with near-perfect precision and recall.  
 
----
-
-#DataScience #MachineLearning #PredictiveModeling #InsuranceAnalytics #RiskModeling #InsurTech #ActuarialScience
